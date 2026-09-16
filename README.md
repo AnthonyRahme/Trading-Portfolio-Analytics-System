@@ -212,5 +212,5 @@ This project demonstrates:
 ## Contact
 
 Anthony Rahme  
-LinkedIn: [Your LinkedIn]  
+LinkedIn: https://www.linkedin.com/in/anthony-rahme-a4bb041b7/
 Email: anthonyrahme448@gmail.com
